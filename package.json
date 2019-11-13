@@ -1,0 +1,39 @@
+{
+  "_from": "https://github.com/rasyidkaromi/crot/tarball/master",
+  "_inBundle": false,
+  "_integrity": "sha512-4HSNfTOzPKzcVi8hCt0bzxCzQ8sF+SF02ERDTaWJBs/iN+m1wWBW5sqLwSp8lzbbSO3vg5so308uKPh0amXGMA==",
+  "_location": "/crot",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://github.com/rasyidkaromi/crot/tarball/master",
+    "rawSpec": "https://github.com/rasyidkaromi/crot/tarball/master",
+    "saveSpec": "https://github.com/rasyidkaromi/crot/tarball/master",
+    "fetchSpec": "https://github.com/rasyidkaromi/crot/tarball/master"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://github.com/rasyidkaromi/crot/tarball/master",
+  "_shasum": "f18bc59421a2bf3c593112879720df71c180ac78",
+  "_spec": "https://github.com/rasyidkaromi/crot/tarball/master",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Crot Gun",
+  "name": "crot",
+  "version": "9.9.9",
+  "main": "crot.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "crot"
+  },
+  "keywords": [
+    "crot"
+  ],
+  "author": "RasyidKaromi",
+  "license": "MIT"
+}
